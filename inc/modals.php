@@ -99,7 +99,7 @@
                 <h3>Important Message</h3>
                 <p>You are leaving Savannah Postal Credit Union’s website. Links that may be accessed via this site are for the convenience of informational purposes only. Any products or services accessed through this link are not provided or guaranteed by Savannah Postal Credit Union. The site you are about to visit may have a privacy policy that is different than Savannah Postal Credit Union’s. Please review their privacy policy. Savannah Postal Credit Union does not endorse the content contained in these sites, nor the organizations publishing these sites, and hereby disclaims any responsibility for such content.</p>
                 <a data-dismiss="modal" class="remodal-cancel" href="#">Cancel</a>
-                <a data-dismiss="modal" class="remodal-confirm" href="#" onClick="window.open('https://www.cufs.org/index.php', '_blank')" aria-label="Continue to CUFS">Continue to CUFS</a>
+                <a data-dismiss="modal" class="remodal-confirm" href="#" onClick="window.open('https://www.cufs.org/index.php', '_blank')" aria-label="Continue to CUFS Mortgage">Continue to CUFS Mortgage</a>
             </div>
         </div>
     </div>
